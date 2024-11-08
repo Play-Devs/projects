@@ -1,4 +1,4 @@
-# PlayDev - Repositório de Projetos
+# PlayDev - Repositório de Códigos Públicos
 
 Bem-vindo ao repositório de projetos da PlayDev! Este repositório reúne diversos projetos desenvolvidos pela equipe da PlayDev, que estão relacionados à criação de ferramentas e muito mais. Aqui, você encontrará uma variedade de códigos, desde projetos simples a complexos, que visam melhorar a experiência do usuário e otimizar o desenvolvimento de novas soluções.
 
