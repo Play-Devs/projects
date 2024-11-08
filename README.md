@@ -18,7 +18,7 @@ Neste repositório, você encontrará uma lista de projetos de diferentes áreas
 
 ## Licença
 
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a **GNU GENERAL PUBLIC LICENSE**. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
 
